@@ -1,5 +1,6 @@
 :root{
     background-color: #add8e6;
+    --branco:#ffffff;
 }
 
 body { background-color: var(#add8e6);
@@ -14,8 +15,10 @@ header{
     align-content: center;
     justify-content: space-around;
 }
-
-
+section{
+    display: flex;
+    background-color: var(--branco));
+}
 
 
 
