@@ -17,7 +17,12 @@ header{
 }
 section{
     display: flex;
-    background-color: var(--branco));
+    background-color: var(--branco);
+    border-radius: 30px;
+    /* border-style: dotted; */
+    /* border-width: 6px; */
+    /* border-color: darkblue; */
+    border: dotted 10px darkblue;
 }
 
 
