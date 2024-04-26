@@ -1,10 +1,10 @@
 :root {
-    background-color: #add8e6;
+--preto: #101111;
     --branco: #ffffff;
 }
 
 body {
-    background-color: var(#add8e6);
+    background-color: var(--preto);
 }
 
 
@@ -19,13 +19,8 @@ header {
 }
 
 .intro {
-    display: flex;
-    background-color: var(-branco);
-    border-radius: 30px;
-    /* border-style: dotted; */
-    /* border-width: 6px; */
-    /* border-color: darkblue; */
-    border: dotted 10px darkblue;
+   
+
     margin: 10px;
     padding: 10px;
 }
