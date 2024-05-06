@@ -1,6 +1,6 @@
 :root {
 --preto: #101111;
-    --branco: #ffffff;
+    --branco: #db1717;
 }
 
 body {
@@ -22,7 +22,7 @@ header {
     display: flex;
     align-content: center;
     justify-content: space-around;
-    border-bottom: 1px rgb(221, 52, 52) solid;
+    border-bottom: 1px rgb(255, 246, 246) solid;
 }
 
 .intro {
