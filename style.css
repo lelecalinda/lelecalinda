@@ -42,4 +42,5 @@ header {
 
 .primeiro{
     display: flex;
+    text-align: center;
 }
